@@ -1,0 +1,15 @@
+/Users/alejandromunoz/Desktop/Ejericicio1/Ejercicio2/bin/Debug/net7.0/Ejercicio2
+/Users/alejandromunoz/Desktop/Ejericicio1/Ejercicio2/bin/Debug/net7.0/Ejercicio2.deps.json
+/Users/alejandromunoz/Desktop/Ejericicio1/Ejercicio2/bin/Debug/net7.0/Ejercicio2.runtimeconfig.json
+/Users/alejandromunoz/Desktop/Ejericicio1/Ejercicio2/bin/Debug/net7.0/Ejercicio2.dll
+/Users/alejandromunoz/Desktop/Ejericicio1/Ejercicio2/bin/Debug/net7.0/Ejercicio2.pdb
+/Users/alejandromunoz/Desktop/Ejericicio1/Ejercicio2/obj/Debug/net7.0/Ejercicio2.csproj.AssemblyReference.cache
+/Users/alejandromunoz/Desktop/Ejericicio1/Ejercicio2/obj/Debug/net7.0/Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejandromunoz/Desktop/Ejericicio1/Ejercicio2/obj/Debug/net7.0/Ejercicio2.AssemblyInfoInputs.cache
+/Users/alejandromunoz/Desktop/Ejericicio1/Ejercicio2/obj/Debug/net7.0/Ejercicio2.AssemblyInfo.cs
+/Users/alejandromunoz/Desktop/Ejericicio1/Ejercicio2/obj/Debug/net7.0/Ejercicio2.csproj.CoreCompileInputs.cache
+/Users/alejandromunoz/Desktop/Ejericicio1/Ejercicio2/obj/Debug/net7.0/Ejercicio2.dll
+/Users/alejandromunoz/Desktop/Ejericicio1/Ejercicio2/obj/Debug/net7.0/refint/Ejercicio2.dll
+/Users/alejandromunoz/Desktop/Ejericicio1/Ejercicio2/obj/Debug/net7.0/Ejercicio2.pdb
+/Users/alejandromunoz/Desktop/Ejericicio1/Ejercicio2/obj/Debug/net7.0/Ejercicio2.genruntimeconfig.cache
+/Users/alejandromunoz/Desktop/Ejericicio1/Ejercicio2/obj/Debug/net7.0/ref/Ejercicio2.dll
